@@ -35,6 +35,7 @@ body {
 .biography {
   border: 1px solid black;
   height: 300px;
+  background-color: #fc1681;
 }
 
 h3 {
@@ -52,7 +53,7 @@ h3 {
 }
 
 .bioImage {
-  border: 5px solid black;
+  border: 5px solid #39AAFF;
   margin-top: 10px;
   margin-left: 550px;
   margin-bottom: 10px;
@@ -62,6 +63,7 @@ h3 {
 .hobbies {
   border: 1px solid black;
   height: 300px;
+  background-color: #fc1681;
 }
 
 .hobbyP {
@@ -71,13 +73,14 @@ h3 {
 .hobbyimg {
   height: 192px;
   width: 215px;
-  border: 5px solid black;
+  border: 5px solid #39AAFF;
   margin-left: 550px;
 }
 /* NOTE: web games section  */
 .WebGames {
   border: 1px solid black;
   height: 300px;
+  background-color: #fc1681;
 }
 
 .gameh {
@@ -132,19 +135,22 @@ h1 {
   text-align: center;
 }
 
+.bioBody {
+  background-color: #39AAFF;
+}
+
 .mee {
   border: 5px solid black;
   margin-left: 500px;
 }
 
-.aboutMe {
+.about {
   font-size: 25px;
   text-align: center;
 }
 /* NOTE: hobbies html */
 .basketball {
   margin-top: 10px;
-  border: 1px solid black;
   width: 700px;
 }
 
@@ -158,4 +164,8 @@ h1 {
 
 .Cooking {
   margin-left: 600px;
+}
+
+h4 {
+  font-size: 20px;
 }
