@@ -1,0 +1,161 @@
+body {
+  margin: 0px;
+}
+/* NOTE: Header content */
+.header {
+  height: 180px;
+  background-color: black;
+  background-image:url("images/home_banner.png");
+  background-repeat: no-repeat;
+  background-position: center top;
+}
+/* NOTE: Home logo specs */
+.logo1 {
+  border: 5px solid #39AAFF;
+  border-radius: 100px;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+/* NOTE: header menu specs */
+.header a {
+  text-decoration: none;
+  color: white;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.menu {
+  text-align: center;
+  font-size: 30px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 25px;
+}
+/* NOTE: Biography section */
+.biography {
+  border: 1px solid black;
+  height: 300px;
+}
+
+h3 {
+  font-size: 25px;
+  text-align: center;
+  margin-top: 8px;
+  margin-bottom: 0px;
+}
+
+.bioBtn {
+  font-size: 20px;
+  margin-left: 610px;
+  margin-top: 0px;
+  border: 1px solid black;
+}
+
+.bioImage {
+  border: 5px solid black;
+  margin-top: 10px;
+  margin-left: 550px;
+  margin-bottom: 10px;
+  display: block;
+}
+/* NOTE: Hobbies section */
+.hobbies {
+  border: 1px solid black;
+  height: 300px;
+}
+
+.hobbyP {
+  text-align: center;
+}
+
+.hobbyimg {
+  height: 192px;
+  width: 215px;
+  border: 5px solid black;
+  margin-left: 550px;
+}
+/* NOTE: web games section  */
+.WebGames {
+  border: 1px solid black;
+  height: 300px;
+}
+
+.gameh {
+  text-align: center;
+}
+
+table {
+  margin-left: 350px;
+  margin-top: 40px;
+}
+
+.Bloons {
+  margin-right: 15px;
+}
+
+.KC {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.HG {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.MDB {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.btn1 {
+  margin-left: 25px;
+}
+
+.btn2 {
+  margin-left: 40px;
+}
+
+.btn3 {
+  margin-left: 40px;
+}
+
+.btn4 {
+  margin-left: 40px;
+}
+
+.btn {
+  margin-top: 10px;
+}
+/* NOTE: this is for bio.html */
+h1 {
+  text-align: center;
+}
+
+.mee {
+  border: 5px solid black;
+  margin-left: 500px;
+}
+
+.aboutMe {
+  font-size: 25px;
+  text-align: center;
+}
+/* NOTE: hobbies html */
+.basketball {
+  margin-top: 10px;
+  border: 1px solid black;
+  width: 700px;
+}
+
+.snowboarding {
+  margin-left: 600px;
+}
+
+.videoGames {
+  margin-left: 600px;
+}
+
+.Cooking {
+  margin-left: 600px;
+}
